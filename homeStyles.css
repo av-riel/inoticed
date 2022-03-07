@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+	background-color: black;
+	background-image: url("images/nogifobjects.png");
+	background-repeat: no-repeat;
+	background-size: 540px;
+}
+section1 {
+	margin-left: 0px;
+}
+section2 {
+	padding-left: 315px;
+	padding-top: 400px;
+}
+section3 {
+	padding-left: 0px;
+}

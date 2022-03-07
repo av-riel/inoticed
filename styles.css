@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+body {
+	background-color: black;
+	background-image: url("images/everything.png");
+	background-repeat: no-repeat;
+	background-size: 540px;
+	padding-left: 10px;
+	padding-top: 460px;
+}
